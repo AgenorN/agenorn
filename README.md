@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:2563EB,100:7C3AED&text=Agenor%20Neto&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informação%20na%20UFMS&descSize=18&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=💻+Desenvolvimento+Web;📚+Sempre+aprendendo+algo+novo;🚀+Criando+projetos+e+evoluindo;📍+Carioca+vivendo+no+Mato+Grosso+do+Sul" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=🎓+Estudante+de+Sistemas+de+Informação+na+UFMS" />
 
 </div>
 
@@ -53,13 +53,12 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AgenorN&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgenorN&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgenorN&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgenorN&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AgenorN&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AgenorN&theme=tokyonight"/>
 
 </div>
 

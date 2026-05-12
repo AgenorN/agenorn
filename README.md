@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=🎓+Estudante+de+Sistemas+de+Informação;💻+Apaixonado+por+tecnologia+e+desenvolvimento;🚀+Criando+projetos+e+evoluindo+todos+os+dias;📍+Carioca+vivendo+no+Mato+Grosso+do+Sul" />
 
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656971-9c3a38ef-c2c7-4f8b-8e20-5334b59c8e4c.gif" width="220"/>
+
 </div>
 
 ---
@@ -23,7 +27,7 @@
 
 🚀 Sempre aprendendo e criando projetos
 
-⚡ Buscando evoluir todos os dias na tecnologia
+⚡ Evoluindo todos os dias na tecnologia
 ```
 
 </td>
@@ -34,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=Agenor&count=1" width="380"/>
+<img width="420" src="https://spotify-recently-played-readme.vercel.app/api?user=31tsvyw2op234u7saduqghtaan2y&count=1&unique=true"/>
 
 </div>
 
@@ -63,11 +67,17 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Desenvolvimento%20Web-020617?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/Linguagem%20C-020617?style=for-the-badge&logo=c&logoColor=38BDF8"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/C%23-020617?style=for-the-badge&logo=csharp&logoColor=9B4F96"/>
 
 </div>
@@ -109,6 +119,20 @@
 ## ⚡ Perfil GitHub
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgenorN&theme=github_dark"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgenorN&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgenorN&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AgenorN&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 

@@ -58,8 +58,8 @@ Atualmente estou focado em aprender cada vez mais sobre programação, lógica, 
 <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://youtube.com/@Agenor021">
-<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://www.linkedin.com/in/agenor-rodrigues-de-ara%C3%BAjo-neto-38a66a387/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SEUUSUARIO">

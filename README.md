@@ -1,156 +1,91 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:111111,100:ff0000&text=Agenor%20Neto&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:2563EB,100:7C3AED&text=Agenor%20Neto&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informação%20na%20UFMS&descSize=18&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=2500&pause=1200&color=FF0000&center=true&vCenter=true&width=850&lines=Estudante+de+Sistemas+de+Informação+-+UFMS;Desenvolvedor+Full+Stack;Criando+projetos+modernos+e+tecnológicos;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP+%7C+Laravel" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=agenorn&label=VISITAS&color=ff0000&style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=🎓+Estudante+de+Sistemas+de+Informação+na+UFMS" />
 
 </div>
 
 ---
 
-# 💻 Sobre Mim
-
-```javascript
-const agenor = {
-    nome: "Agenor Neto",
-    faculdade: "UFMS - Sistemas de Informação",
-    cargo: "Desenvolvedor Full Stack",
-
-    foco: [
-        "Desenvolvimento Web",
-        "Interfaces Modernas",
-        "Dashboards",
-        "Sistemas Web",
-        "UI/UX"
-    ],
-
-    linguagens: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "PHP",
-        "Laravel"
-    ],
-
-    objetivo: "Criar projetos modernos, tecnológicos e funcionais."
-}
-```
-
----
-
-# 🌐 Redes Sociais
-
-<div align="center">
-
-<a href="https://instagram.com/agenor.n_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=ff0000"/>
-</a>
-
-<a href="https://github.com/agenorn" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-</div>
-
----
-
-# ⚡ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vscode,git,github" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agenorn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenorn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agenorn&theme=tokyonight&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000"/>
-
-</div>
-
----
-
-# 🚀 Projetos
-
-<div align="center">
-
-| Projeto | Descrição |
-|---|---|
-| 🎓 Dashboard Acadêmica | Sistema para controle de médias e matérias |
-| 🌐 Sites Modernos | Landing pages modernas e responsivas |
-| ⚡ Sistemas Web | Projetos Full Stack utilizando Laravel |
-| 📊 Dashboards | Interfaces modernas com gráficos e métricas |
-
-</div>
-
----
-
-# 🧠 Atualmente Estudando
+## 👨‍💻 Sobre mim
 
 ```txt
-📚 Estrutura de Dados
-📚 Desenvolvimento Full Stack
-📚 Laravel
-📚 APIs REST
-📚 Banco de Dados
-📚 UI/UX
+🎓 Estudante de Sistemas de Informação — UFMS
+📍 Carioca vivendo no Mato Grosso do Sul
+💻 Interessado em desenvolvimento web e tecnologia
+🚀 Sempre criando projetos para evoluir
 ```
 
 ---
 
-# ⚙️ Setup
-
-```yaml
-OS: Windows 11
-IDE: VS Code
-Versionamento: Git + GitHub
-Framework: Laravel
-```
-
----
-
-# 🐍 Snake Contributions
+## 📚 Atualmente estudando
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://img.shields.io/badge/Desenvolvimento%20Web-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/Linguagem%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 </div>
 
 ---
 
-# ☕ Final
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgenorN&theme=tokyonight"/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ff0000,100:050505"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AgenorN&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AgenorN&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌐 Redes sociais
+
+<div align="center">
+
+<a href="https://instagram.com/agenor.n_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/agenor-rodrigues-de-ara%C3%BAjo-neto-38a66a387/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AgenorN">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:2563EB,100:0D1117"/>
 
 </div>
